@@ -15,3 +15,5 @@
 
 # 5. then we use anoconda, jupyter to do project about machine learning.
 # code in terminal: jupyter notebook
+result = True + True + False
+print(result)
