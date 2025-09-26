@@ -11,6 +11,7 @@
 
 # it automatically create a name of 'pyshop' package,  and a manage.py, this file is used to control our django
 
+# to open our server and website
 # 3.terminal: python3 manage.py runserver
 # we use this manage.py module to manage our django website
 
