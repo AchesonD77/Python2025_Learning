@@ -25,7 +25,8 @@ digits_mapping = {
     "4": "four"
 }
 output = ""
-# get() method in dictionary, means our program don't yield people, if we don't have the ch in our dictionary, we set a default value.
+# get() method in dictionary, means our program don't yield people,
+# if we don't have the ch in our dictionary, we set a default value.
 for ch in phone:
     output += digits_mapping.get(ch , "WRONG") + " "
 print(output)

@@ -23,5 +23,6 @@ except ValueError:
     print("Invalid value")
 
 # 1. a small program get the user's age from terminal
+# if we don't do exceptions
 age = int(input('The Age after ages: '))
 print(age+age)

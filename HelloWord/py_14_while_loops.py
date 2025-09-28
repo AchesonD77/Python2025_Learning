@@ -20,6 +20,8 @@ guess_limit = 3
 while count_number < guess_limit:
     guess = int(input(f"Guess: "))
     count_number += 1
+    if count_number < guess_limit-1:
+        print("Try again!")
     if count_number == (guess_limit-1):
         print("Last chance")
     if guess == secret_number:

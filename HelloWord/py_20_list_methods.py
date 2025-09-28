@@ -11,7 +11,7 @@ print(numbers)
 numbers.remove(5)
 print(numbers)
 # 4. pop() remove the last one item in our list
-numbers.pop(5)
+numbers.pop()
 print(numbers)
 # 5. index(), call the index method to identify if the item in our list, return the index of it
 print(numbers.index(10))

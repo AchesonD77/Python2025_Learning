@@ -9,7 +9,7 @@ x_2 = -2.9
 print(abs(x_2))
 
 # a sea of functions for working with numbers, complex mathmatical calculations, import a math module
-# module in Peython is a separate file with some reusable code
+# module in Python is a separate file with some reusable code
 import math
 # math. to call the functions.
 print(math.ceil(5.4))

@@ -17,7 +17,7 @@ for item in range(5, 10, 2):
 # we can change the name of item to whatever we want. We define a variable out of the loop
 prices = [13, 23, 44]
 total = 0
-for price in prices: # price meanseach iteration value from prices list.
+for price in prices: # price means each iteration value from prices list.
     total += price
 print(f"Total money: {total}")
 

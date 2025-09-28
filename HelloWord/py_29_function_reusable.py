@@ -1,5 +1,5 @@
 # creating reusable functions
-# reorganize the dictionary_emoji_convert_exercise_25.py to be a new reusable function
+# reorganize the py_25_dictionary_emoji_convert_exercise.py to be a new reusable function
 # we don't set up input and output, because maybe they have different ways.
 # each function can only work on one specific task, and we neet to show the task through our define name
 
