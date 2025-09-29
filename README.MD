@@ -31,7 +31,7 @@ This repo can serve as a quick reference for **Python basics**, **examples**, an
 - Functions (Parameters, Return Values, Keyword Arguments, Reusable Functions)
 - Exceptions (Error Handling)
 - Classes, Constructors, Inheritance
-- Modules & Packages
+- Modules & Packagess\
 - Working with Directories
 - Generating Random Values
 - Using PyPI & Pip
@@ -116,5 +116,4 @@ Key Python basics from the course & [Cheat Sheet](python.pdf):
 ## ✨ Notes
 
 This repo is purely for learning purposes. Feel free to explore, fork, and practice with the codes.  
-Happy Coding! 🎉
-
+Happy Coding!!🎉
